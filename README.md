@@ -1,4 +1,4 @@
-# Pokatálogo  pokeball
+# Pokatálogo
 
 ![Pokatálogo](https://img.shields.io/badge/project-Pokatalogo-blue)
 ![Status](https://img.shields.io/badge/status-Concluído-green)
