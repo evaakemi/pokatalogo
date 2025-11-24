@@ -5,7 +5,7 @@
 
 ## 📖 Sobre
 
-O **Pokatálogo** é um catálogo digital de Pokémon, criado como projeto prático durante a **Imersão Dev**, uma iniciativa da [Alura](https://www.alura.com.br/) em parceria com o [Google](https://www.google.com/). A aplicação exibe uma lista de Pokémon com suas informações detalhadas, como tipo, habilidades e descrição, permitindo aos fãs explorarem o universo dos monstrinhos de bolso.
+O **Pokatálogo** é um catálogo digital de Pokémon, criado como projeto prático durante a **Imersão Dev**, uma iniciativa da [Alura](https://www.alura.com.br/) em parceria com o [Google](https://www.google.com/). A aplicação exibe uma lista de Pokémons com suas informações detalhadas, como tipo, habilidades e descrição, permitindo aos fãs explorarem o universo dos monstrinhos de bolso.
 
 ### A Imersão Dev
 
